@@ -1,7 +1,5 @@
 
 # Kratos Rover
->note: start the design and see if WALL-E is the best design
-
 [youtube video](https://www.youtube.com/watch?v=7oVSaUWeKt0)
 
 ## Components/Overall Design

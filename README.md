@@ -14,6 +14,8 @@
 - maybe a servo to look around?
 - a smartphone/tablet 
 
+## PS4 Controller Support
+[example git](https://github.com/dr-mod/robot-claw)
 
 ## Notes on Rover and Machine Learning
 

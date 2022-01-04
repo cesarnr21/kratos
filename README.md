@@ -16,6 +16,7 @@
 
 ## PS4 Controller Support
 [example git](https://github.com/dr-mod/robot-claw)
+[another example](https://github.com/mohammadreza-sharifi/Control-DJI-Tello-with-Raspberry-Pi-and-PS4-Controller)
 
 ## Notes on Rover and Machine Learning
 

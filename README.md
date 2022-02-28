@@ -1,6 +1,5 @@
 
 # Kratos Rover
-[youtube video](https://www.youtube.com/watch?v=7oVSaUWeKt0)
 
 ## Components/Overall Design
 
@@ -14,16 +13,3 @@
 - maybe a servo to look around?
 - a smartphone/tablet 
 
-## PS4 Controller Support
-[example git](https://github.com/dr-mod/robot-claw)
-[another example](https://github.com/mohammadreza-sharifi/Control-DJI-Tello-with-Raspberry-Pi-and-PS4-Controller)
-
-## Notes on Rover and Machine Learning
-
-- http://www.robot-vision.org/
-
-- [computer vision with pi](https://www.pyimagesearch.com/start-here/)
-
-- [project on instructables](https://www.instructables.com/Object-Finding-Personal-Assistant-Robot-Ft-Raspber/)
-
-- [ROS and Raspberry pi 4](https://www.thinkautonomous.ai/blog/?p=robotic-os-embedded-computer-vision-on-raspberry-pi-4)

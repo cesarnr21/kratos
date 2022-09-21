@@ -1,5 +1,5 @@
 
-# Kratos Rover
+# Talos Rover
 
 ## Components/Overall Design
 
@@ -12,4 +12,14 @@
 - Battery
 - maybe a servo to look around?
 - a smartphone/tablet 
+
+### program the arduino from the raspberry pi
+implement this to give the main computer onboard to update the software on the microcontroller
+
+- article: <https://siytek.com/arduino-cli-raspberry-pi/>
+- more: <https://ladvien.com/headless-programming-ardunio-via-rpi/>
+- possible solutions:
+	- <https://www.instructables.com/AVRArduino-Flashing-With-Raspberry-Pi/>
+	- <https://www.monocilindro.com/2017/03/20/flashing-arduino-using-raspberry-pi-shell/>
+
 

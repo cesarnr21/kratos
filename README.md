@@ -1,5 +1,4 @@
-
-# Talos Rover
+# Kratos Rover
 
 ## Components/Overall Design
 
